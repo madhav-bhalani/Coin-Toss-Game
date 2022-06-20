@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin Toss</string>
+    <string name="coin_toss_game">Coin Toss Game</string>
+    <string name="toss">Toss</string>
+    <string name="todo">TODO</string>
+    <string name="heads">Heads</string>
+    <string name="tails">Tails</string>
+</resources>
